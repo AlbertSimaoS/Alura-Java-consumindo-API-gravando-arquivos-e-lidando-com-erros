@@ -1,9 +1,4 @@
-import com.google.gson.FieldNamingPolicy;
-import com.google.gson.GsonBuilder;
 import com.google.gson.Gson;
-
-import java.io.FileWriter;
-import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
